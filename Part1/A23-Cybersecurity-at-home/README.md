@@ -1,5 +1,5 @@
-Teach my Family About a Cybersecurity Topic:
+Enhance the Cybersecurity at Your Home:
 
 - In this directory, I have gathered all the evidence of the completion of part A23 of the portfolio.
-- It includes pictures of security platform to scan suspicious files.
+- It includes pictures of the security enhancements implemented.
 
